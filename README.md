@@ -13,7 +13,6 @@ A full-stack web application that digitises inventory tracking and billing for r
 
 ## Live Project
 Built for: Nehru Nagar Minimarket, Vile Parle, Mumbai
-Status: In active use
 
 ## Key Features
 Real-time inventory synchronization
